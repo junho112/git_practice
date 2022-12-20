@@ -1,4 +1,4 @@
 hello codestates
 Git is bad
-이줄만 바꿔야지
+다시 수정
 this is git 직접수정 
