@@ -2,3 +2,4 @@ hello codestates
 Git is bad
 다시 수정
 this is git 직접수정 
+이 줄을 추가했습니다. 
