@@ -1,3 +1,4 @@
 hello codestates
 Git is bad
-Git nnnnnnnnnnn 
+Git nnnnnnnnnnn
+this is git 직접수정 
